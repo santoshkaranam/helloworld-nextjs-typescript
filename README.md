@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Blog post - https://www.c-sharpcorner.com/blogs/getting-started-with-react-next-js-with-typescript
+
 ## Getting Started
 
 First, run the development server:
